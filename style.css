@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-image: url("http://st2.depositphotos.com/4393299/7175/v/170/depositphotos_71754229-stock-illustration-robot-doodle-seamless-pattern-background.jpg");
+    color: white;
+}
+
+h1 {
+    text-shadow: 2px 2px white;
+    color: lavender;
+    text-align: center;
+    font-family:cursive;
+}
+
+body {
+    font-family: Arial;
+    text-align: center;
+    color: ;
+}
+
+caption {
+    text-align: center;
+    color: white;
+     font-family: cursive;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.text{
+    background-color: white;
+}
+
+#name{
+      margin:auto;
+}
